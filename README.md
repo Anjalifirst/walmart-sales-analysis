@@ -1,4 +1,4 @@
-# walmart-sales-analysis
+# Walmart Sales: Analysis and Forecasting
 
 ## Project Overview
 
